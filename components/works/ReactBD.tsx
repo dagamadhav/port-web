@@ -21,7 +21,7 @@ const ReactBD = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Complete my 10th standard from St. micheal's sen. sec. school, Satna(MP)
+          Complete my 10th standard from St. micheals sen. sec. school, Satna(MP)
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
